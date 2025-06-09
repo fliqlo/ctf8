@@ -29,6 +29,13 @@ git push origin - Git push origin is a git command
 				  that pushes a local branch(es)
 				  to a remote repository (origin).
 
+Alert! 
+if you get an error use the following command:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+
+
 hints: follow the git commands orderly.
 make sure you're in the "ctf8" folder before you begin with git, not in the "brad-repo".
 
