@@ -33,5 +33,5 @@ hints: follow the git commands orderly.
 make sure you're in the "ctf8" folder before you begin with git, not in the "brad-repo".
 
 submit the flag here:
-https://forms.gle/buZYQWLGZhh8e3Xe8
+[https://forms.gle/buZYQWLGZhh8e3Xe8](https://docs.google.com/forms/d/e/1FAIpQLSfqt4q4Qu0uxYkVwSNk1mUnfbTcAMBp1Dvj-QKlt6X7gTf5ug/viewform?usp=sharing&ouid=114698244348352045310)
 
