@@ -30,6 +30,7 @@ git push origin - Git push origin is a git command
 				  to a remote repository (origin).
 
 hints: follow the git commands orderly.
+make sure you're in the "ctf8" folder before you begin with git, not in the "brad-repo".
 
 submit the flag here:
 https://forms.gle/buZYQWLGZhh8e3Xe8
